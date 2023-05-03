@@ -1,4 +1,5 @@
-# NYC-school-analysis
+# Fairness In Scholastic Aptitute Test In New York City For College Admission
+
 This project aims at verifying the  demographic factors influencing  score at the Scholastic Aptitude Test (SAT) in New York City.
 
 
