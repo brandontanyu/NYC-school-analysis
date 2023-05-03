@@ -31,3 +31,5 @@ The same website has several related datasets covering demographic information a
 
 * [`School survey`](https://data.cityofnewyork.us/Education/2011-NYC-School-Survey/mnz3-dyi8) - Surveys of parents, teachers, and students at each school
 
+
+All of these datasets are interrelated. We'll need to combine them into a single dataset before we can find correlations.
